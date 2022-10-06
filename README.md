@@ -1,2 +1,1 @@
-# atividade-02---contribuir-com-o-colega
-Nome-> Caio Pereira Silva passou por aqui
+# Atividade - Vetores e Matrizes em C
